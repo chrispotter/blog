@@ -1,8 +1,7 @@
 ---
 title: "Log4js Appender"
-author: "Chris Potter"
-date: 2016-2-14
-tags: [ "log4js-node", "node", "open-source", "contributing" ]
+date: 2016-02-14
+tags: [ "log4js-node", "node", "open-source", "contributing" ] 
 ---
 
 To review here is the list of things that I claimed I would work on:

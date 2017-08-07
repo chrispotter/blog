@@ -1,7 +1,6 @@
 ---
 title: "Ghost Render Blog"
 date: 2015-12-28
-author: "Chris Potter"
 tags: [ "ghost-render" ]
 ---
 This blog is an attempt to keep track of and organize a variety of my personal
